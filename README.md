@@ -4,7 +4,7 @@ Lambda functions that automates publishing process for audio translation project
 In order to use this process, tR should upload a zipped project as well as create a repository and commit a manifest on gogs.
 
 Audio should be packaged in a folder named:
-\<target language slug\>_\<book slug\>_audio_\<version slug\>
+\<target language slug\>_\<book slug\>\_audio__\<version slug\>
 
 and then zipped with the commit number prepended to that name.
 
