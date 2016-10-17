@@ -1,0 +1,7 @@
+{
+  "description": "Create ElasticTranscoder job to convert wav to mp3",
+  "runtime": "python",
+  "memory": 512,
+  "timeout": 300,
+  "role": "arn:aws:iam::581647696645:role/tx_lambda_function"
+}

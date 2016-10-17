@@ -1,0 +1,7 @@
+{
+  "description": "Unzip project archive that gets put to S3",
+  "runtime": "python",
+  "memory": 512,
+  "timeout": 300,
+  "role": "arn:aws:iam::581647696645:role/tx_lambda_function"
+}
