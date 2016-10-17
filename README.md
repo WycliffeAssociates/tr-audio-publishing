@@ -9,6 +9,7 @@ Audio should be packaged in a folder named:
 and then zipped with the commit number prepended to that name.
 
 folder ex: cmn_eph_audio_ulb
+
 zip ex: 6534103f53cmn_eph_audio_ulb.zip
 
 files should be uploaded to the s3 bucket under: \<bucket name\>/inbound/\<gogs username\>
